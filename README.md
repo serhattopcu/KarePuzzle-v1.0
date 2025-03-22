@@ -1,3 +1,7 @@
+Uygulamada farklı kategorilere ait bir fotoğraf parçalanmış yani puzzle haline getirilmiş ardından gizlenmiştir. Kategori seçiminden sonra uygulama başlamakta ve yeşil soru işareti parçalar üzerinde rastgele gezmektedir. Durduğu yerde soru açılmakta doğru cevap verilmesi halinde gizli resim parçası gösterilmektedir. Her parçaya ait bir soru vardır. Kullanıcı gizli resmi tahmin edince oyun bitmektedir.
+
+
+
 Kullıcıdan adı, yaşı ve cinsiyet bilgisinin alındığı giriş ekranı:
 
 ![image](https://github.com/user-attachments/assets/e094fd84-afa9-4f50-9ca7-b9f73fad9fef)
