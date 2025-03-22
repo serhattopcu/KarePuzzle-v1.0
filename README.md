@@ -1,3 +1,5 @@
+Kullıcıdan adı, yaşı ve cinsiyet bilgisinin alındığı giriş ekranı:
+
 ![image](https://github.com/user-attachments/assets/e094fd84-afa9-4f50-9ca7-b9f73fad9fef)
 
 ![image](https://github.com/user-attachments/assets/d1ee653f-d17d-469c-bc0a-0b68b975a730)
