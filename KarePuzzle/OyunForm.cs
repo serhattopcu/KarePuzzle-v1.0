@@ -630,6 +630,11 @@ namespace KarePuzzle
 
         }
 
+        private void button3_Click_1(object sender, EventArgs e)
+        {
+            Application.Exit(); 
+        }
+
         public void sıfırla()
         {
             btnA.BackColor = Color.WhiteSmoke;
@@ -667,6 +672,7 @@ namespace KarePuzzle
             kategoriForm kt = new kategoriForm();
             kt.Show();
             index = 0;
+          
         }
 
         private void button4_Click_2(object sender, EventArgs e)
